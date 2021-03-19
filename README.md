@@ -1,4 +1,5 @@
 Hello!  I am Jon Proctor
+
 I am using github as remote drive for storing and sharing scripts and projects that I have been working on so that I have access to the projects from any of the platforms that I am currently using.  This has greatly simplified sharing scripts between my windows and raspberry pi environments.
 
 I am currently working with R-Project, python, CircuitPython/ MicroPython.
