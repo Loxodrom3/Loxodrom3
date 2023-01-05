@@ -13,7 +13,7 @@ I am working with the following devices:
 
 My Interest are:
 - Geospatial data collection and processing
-- calculationg and reporting the accuracy of geospatial data
+- calculating and reporting the accuracy of geospatial data
 - LED clocks - unique displays
 - temperature, humidity, environmental sensors.  Collection of data and display.
 - macro keyboards (rasp pi pico is to blame for this!)
