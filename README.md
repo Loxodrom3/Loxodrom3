@@ -5,7 +5,7 @@ I am using github as remote drive for storing and sharing scripts and projects t
 I am currently working with R-Project, python, CircuitPython/ MicroPython.
 
 I am working with the following devices:
-- Raspberry pi 4
+- Raspberry pi x
 - Raspberry pi pico
 - Raspberry pi zero w
 - adafruit feather M4 express
